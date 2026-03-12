@@ -8,7 +8,7 @@ Official plugin marketplace for [Tellagen](https://tellagen.com) — investigate
 
 ```bash
 /plugin marketplace add tellagen/tellagen-marketplace
-/plugin install tellagen@tellagen-marketplace
+/plugin install tellagen
 ```
 
 Then add your credentials to `~/.claude/settings.json`:
