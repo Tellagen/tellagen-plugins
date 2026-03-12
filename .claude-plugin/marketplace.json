@@ -14,7 +14,7 @@
       "source": {
         "source": "github",
         "repo": "tellagen/tellagen-plugin",
-        "ref": "main"
+        "ref": "master"
       },
       "description": "Tellagen incident investigation — MCP server + investigation skill for reading incidents, running AI investigations, posting findings, and building timelines.",
       "version": "0.1.0",
